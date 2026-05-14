@@ -6,7 +6,7 @@
 ### Product Performance
 ### Regional Performance
 
-# Tools Used
+# Tools Used:
 ## Microsoft Power BI
 ## Power Query
 ## DAX
